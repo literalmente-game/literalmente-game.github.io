@@ -1,0 +1,9 @@
+/* visited link color */
+a:visited {
+    color:#00ff00;
+}
+
+/* mouse over link color */
+a:hover {
+    color:yellow;
+}
