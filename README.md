@@ -3,8 +3,7 @@
 Placeholder do futuro site Literalmente Game (no momento só será usado pra linkar outros conteúdos).
 
 Conteúdo hospedado no momento:
-- Lista de compatibilidade não oficial do emulador CxBx-Reloaded, contendo o resultado dos meus testes de maneira organizada.
-- Ainda não upei para o GitHub, mas vou seguir o mesmo padrão da lista do CxBx-Reloaded para criar uma para o emulador Play!.
+- Lista de compatibilidade do emulador Nova (Sega Saturn): https://literalmente-game.github.io/compatibility_lists/nova.html
+- Lista de compatibilidade do emulador melonDS (Nintendo DS): https://literalmente-game.github.io/compatibility_lists/melonDS.html
 
-Não há um design definitivo para nada ainda (embora a lista de compatibilidade esteja funcional, acredito que dê pra melhorar de várias
-formas), então fiquem a vontade para dar sugestões.
+
